@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+nama : Husni Alfarisal
+npm : 07352311054
+kelas : 5IF2
